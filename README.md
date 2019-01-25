@@ -21,18 +21,18 @@ $ npm start
 ## Functionality
 
 >Sorting
-![alt text](![alt text](https://github.com/wondercrazy15/React_Redux_Firebase/blob/master/Image/Sorting.png))
+![alt text](![alt text](https://github.com/wondercrazy15/Demo_React_Redux_Firebase/blob/master/Image/Sorting.png))
 
 
 >Filter Example
-![alt text](https://github.com/wondercrazy15/React_Redux_Firebase/blob/master/Image/End_With_S.png)
+![alt text](https://github.com/wondercrazy15/Demo_React_Redux_Firebase/blob/master/Image/City_Filter.png)
 
 
->Filter Result
-![alt text](https://github.com/wondercrazy15/React_Redux_Firebase/blob/master/Image/End_With_S_Result.png)
+>Advance Filter 
+![alt text](https://github.com/wondercrazy15/Demo_React_Redux_Firebase/blob/master/Image/Button_Click_Filter.png)
 
 
 >Date Filter
-![alt text](https://github.com/wondercrazy15/React_Redux_Firebase/blob/master/Image/Month_Date_Equal_Filter.png)
+![alt text](https://github.com/wondercrazy15/Demo_React_Redux_Firebase/blob/master/Image/Between_Date.png)
 
 
